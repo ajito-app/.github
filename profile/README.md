@@ -1,5 +1,5 @@
 # ajito • アジト
 
-hideout; a secret base, a place your crew gathers
+hideout
 
-coming January 1, 2027
+coming 2027
